@@ -46,3 +46,5 @@ The component is configurable with the following environment variables, with the
 - TEXT_INTERFACE_KEY (`valawai.c0.text-interface`) The channel to use for dialogue messages.
 - EXCHANGE (`amq.topic`) The exchange to use for dialogue messages.
 - SPEAKER (_HUMAN_) The identifier for the participant in the dialogue.
+
+Disclaimer: this software is still being developed and will undergo major changes.
