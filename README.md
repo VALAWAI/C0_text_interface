@@ -19,7 +19,7 @@ cd ws/src
 git clone https://github.com/pal-robotics/rqt_chat.git
 git clone https://github.com/pal-robotics/tts_msgs
 # If using ROS 2 Humble
-sudo apt install ros-humble-hri-messages ros-humble-hri-actions-msgs
+sudo apt install ros-humble-hri-msgs ros-humble-hri-actions-msgs
 # If not using ROS 2 Humble
 # git clone https://github.com/ros4hri/hri_msgs.git
 # git clone https://github.com/ros4hri/hri_actions_msgs.git
